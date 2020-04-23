@@ -1,5 +1,7 @@
-# LiveCameraFilter
+# Live Camera Filter
 A camera filter that works in realtime. Script modifiable.
+
+Note: *needs admin privileges*
 
 **Installations**
 1. **OBS** (Open Broadcaster Software)
